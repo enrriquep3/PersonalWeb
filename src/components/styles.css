@@ -1,0 +1,13 @@
+.footer{
+    margin-top: 50px;
+    position: block;
+left:0;
+bottom:0;
+right:0;
+background-color: #6c757d;
+padding: 0;
+}
+
+.social{
+    color: #212529;
+}
