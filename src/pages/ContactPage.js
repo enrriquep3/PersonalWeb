@@ -12,8 +12,8 @@ function ContactPage(props) {
       <Hero title={props.title} />
      <ContactUs />
      <div className="or">
-     <h2>OR</h2>
-     <h5 > <a href={`mailto:${email}`}>emailMe</a></h5>
+     <h3>OR</h3>
+     <h6 > <a href={`mailto:${email}`}>emailMe</a></h6>
      </div>
     </div>
   );

@@ -13,18 +13,17 @@ function AboutPage(props) {
             <Hero title={props.title} />
 
             <Content>
-            <p>Hello there, my name is Enrrique Pimentel. I'm a Web Developer with experience in  JavaScript,  Node Js, HTML5, React,  MongoDB, MySQL</p>
+            <p>Hello there, my name is Enrrique Pimentel. I'm a creative, hard worker Web Developer with experience in  JavaScript,  Node Js, HTML5, React,  MongoDB, MySQL</p>
 
 
-            <p>I'm constantly learning new technologies. currently those things include gaining more experience with React, Redux, and Node Js</p>
+            <p>I'm constantly learning new technologies and improving myself. Currently those things include gaining more experience with React, Redux, and Node Js</p>
 
             <p>My latest project, E-Shop App, is a E-commerce App. You can check it out <a href="https://devgrub.com" target="_blank" rel="noopener noreferrer">here</a></p>
 
-            <p>Check out my resume  <a href = {Pdf} target = "_blank" rel="noopener noreferrer">here</a></p>
+            <p>Check out my <a href = {Pdf} target = "_blank" rel="noopener noreferrer">resume</a></p>
 
             <p>I am passionate to build, create and develop new ideas into products and services. Let's Create Great Things! </p>
 
-            <p>Here are some of my skills! </p>
             </Content>
             <img className="radarChart" src={RadarChart} alt="RadarChart"/>
         </div>

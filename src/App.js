@@ -1,5 +1,5 @@
 import React from "react";
-import { BrowserRouter as Router, Switch, Route, Link } from "react-router-dom";
+import { BrowserRouter as Router, Route, Link } from "react-router-dom";
 import Container from "react-bootstrap/Container";
 import Navbar from "react-bootstrap/Navbar";
 import Nav from "react-bootstrap/Nav";
@@ -31,7 +31,7 @@ class App extends React.Component {
         title: "About me",
       },
       contact: {
-        title: "Lets get in touch",
+        title: "Lets get in touch!",
       },
     };
   }
