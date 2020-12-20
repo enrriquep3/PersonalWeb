@@ -24,7 +24,7 @@ class App extends React.Component {
       ],
       home: {
         title: "Web Developer.",
-        subTitle: "I  like to build Interactive, Beautiful and Modern websites and apps.  ",
+        subTitle: "I  like to build interactive, beautiful and modern websites and apps.  ",
         text: "Check out my projects",
       },
       about: {
