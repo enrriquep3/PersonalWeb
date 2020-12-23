@@ -1,6 +1,6 @@
 <h1>Personal Website</h1>
 
-<h2>This my personal website with reference of my work, and experience </h2>
+<h2>This my personal website with reference of my work, and experience. </h2>
 
 <h1>Deployment</h1>
 <p>Go online to https://enrriquep.com/ <p>
