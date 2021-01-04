@@ -9,7 +9,8 @@
   
 
 <h1>Built With</h1>
-<p>React<br>
+<p>React,<br>
+  Styled Components
 <br><p>
 
 
