@@ -13,7 +13,7 @@ function AboutPage(props) {
             <Hero title={props.title} />
 
             <Content>
-            <p>Hi, my name is Enrrique Pimentel. I'm a creative, problem solver and hard worker Web Developer with experience in  JavaScript,  Node Js, HTML5, React,  MongoDB, MySQL.</p>
+            <p>Hi, my name is Enrrique Pimentel. I'm a creative, problem solver and hard working Web Developer with experience in  JavaScript,  Node Js, HTML5, React,  MongoDB, MySQL.</p>
 
 
             <p>I'm constantly learning new technologies and improving myself. Currently those things include gaining more experience with ES6, React, Hooks, Redux, and Node.</p>
