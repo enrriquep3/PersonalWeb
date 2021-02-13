@@ -16,7 +16,7 @@ ReactGA.initialize('G-51NCQVXLFP', {
   debug: true,
   titleCase: false,
   gaOptions: {
-    userId: 2321148605
+    userId: 262171230
   }
 });
 
