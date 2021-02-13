@@ -1,4 +1,5 @@
 import React from "react";
+import ReactGA from "react-ga"; 
 import { BrowserRouter as Router, Route, Link } from "react-router-dom";
 import Container from "react-bootstrap/Container";
 import Navbar from "react-bootstrap/Navbar";
@@ -10,6 +11,14 @@ import HomePage from './pages/HomePage';
 import AboutPage from './pages/AboutPage';
 import ContactPage from './pages/ContactPage';
 import SocialFollow from "./components/SocialMedia";
+
+ReactGA.initialize('G-51NCQVXLFP', {
+  debug: true,
+  titleCase: false,
+  gaOptions: {
+    userId: 2321148605
+  }
+});
 
 
 class App extends React.Component {
@@ -24,7 +33,7 @@ class App extends React.Component {
       ],
       home: {
         title: "Web Developer.",
-        subTitle: "I  like to build interactive, beautiful and modern websites and apps.  ",
+        subTitle: "I enjoy creating interactive, beautiful and modern websites and apps.  ",
         text: "Check out my projects",
       },
       about: {
